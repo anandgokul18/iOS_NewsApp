@@ -1,0 +1,6 @@
+framework module Pods_NewsAppTabbed {
+  umbrella header "Pods-NewsAppTabbed-umbrella.h"
+
+  export *
+  module * { export * }
+}
